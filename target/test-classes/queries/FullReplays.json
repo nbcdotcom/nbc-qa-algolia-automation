@@ -1,0 +1,4 @@
+{
+    "hitsPerPage": 40,
+    "filters":  "algoliaProperties.entityType:fullEventReplays"
+}
